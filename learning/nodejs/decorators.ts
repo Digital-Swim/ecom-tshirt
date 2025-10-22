@@ -57,4 +57,6 @@ console.log(u.get("test calls"))
 // const a = Controller("test")
 // const f = function () { }
 // const b = a(f)
+const f = function () { }
+// const b = a(f)
 // console.log(b)
